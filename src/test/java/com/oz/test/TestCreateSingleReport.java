@@ -63,7 +63,7 @@ public class TestCreateSingleReport extends AbstractJUnitTest {
 
 
     /**
-     * Case 2, Make single hello world report... save into dest file with Jasper API
+     * Case 2, Make single hello world report... save into destination file with Jasper API
      */
     @Test
     public void testSingleJasperReport2(){
