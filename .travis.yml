@@ -1,8 +1,9 @@
 language: java
+before_script: rm -rf /tmp/*.pdf
 script: mvn test
 jdk:
   - openjdk6
 
 notifications:
   email:
-  - jaehoo-jaehoo@gmail.com
+  - jaehoo@gmail.com
