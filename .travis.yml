@@ -7,3 +7,4 @@ jdk:
 notifications:
   email:
   - jaehoo@gmail.com
+sudo: false
